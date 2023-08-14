@@ -17,7 +17,7 @@ it is a rest api for user registration and authentication with spring security a
 # How to run the project
 
 ### clone repository
-`git clone https://github.com/SuelytonThiago/LOGIN_SYSTEM
+git clone `https://github.com/SuelytonThiago/LOGIN_SYSTEM`
 
 ### run the project
 ./mvnw spring-boot:run
@@ -27,11 +27,11 @@ To test the endpoints, just use postman or access the swagger documentation with
 As the project needs authentication to access an endpoint, use the following users for testing:
 
 ### client
-* email: ana@example.com
+* email: `ana@example.com`
 * password: senha123
 
 ### admin
-* email: adm@example.com
+* email: `adm@example.com`
 * password: senha123
 
 # Author
